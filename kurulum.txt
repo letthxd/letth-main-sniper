@@ -1,0 +1,8 @@
+ACIKLAMA
+bu sniper letthxddd1948 tarafından kodlanmıştır isa diğer adıyla redd kardeşim ile birlikte yaptık banlı url vesairede cekiyor woet kardesim ve priwate
+ekibimde olucaktır eğer kodu başkasına verirseniz kodu yayacaktır ve fixlenmesine yol acacaktır oyuzden kimseye atmayın ben sanalı salıyorum ve size bu 
+mirası bırakıyorum güle güle kullanın
+
+KURULUM
+ilk önce index.js'nin içindeki kanal idsini dolduruyoruz ve kaydediyoruz sonra mfa.go'yu açıp urlyi cekecek ana hesabın şifresini ve tokenini girip kaydediyoruz
+sonra mfafixer i açıyoruz ve sonra mfa.go yu acıyoruz sonrada index.js yi calıstırıyoruz kanal idsine kurulu olan urllerin logu gittiyse tamamdır calısıyor sorun olursa yaz bana tanıdıksın zaten sana bunu verdıgıme gore
